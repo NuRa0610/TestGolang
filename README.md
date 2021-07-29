@@ -1,2 +1,3 @@
-# Saya kurang paham yang jam
+# Golang Tes
+Saya kurang paham yang jam
 apakah cukup kalau PM = + 12 hrs ?
